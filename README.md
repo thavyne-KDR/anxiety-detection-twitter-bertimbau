@@ -133,8 +133,6 @@ https://colab.research.google.com/drive/1dC9hHf_Qr4NFwP7EjWbYwcSXOxUGtcqV?usp=sh
 
 ---
 
-# 📁 Estrutura do Repositório
-
 # 🧠 Detecção de Ansiedade em Tweets utilizando BERTimbau
 
 Este projeto apresenta uma abordagem de **Processamento de Linguagem Natural (PLN)** para identificar **sinais de ansiedade em textos publicados no Twitter**, utilizando o modelo **BERTimbau**.
